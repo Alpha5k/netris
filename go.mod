@@ -1,4 +1,4 @@
-module code.rocketnine.space/tslocum/netris
+module github.com/Alpha5k/netris
 
 go 1.13
 
