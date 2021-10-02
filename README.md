@@ -5,10 +5,6 @@ Multiplayer Tetris clone
 
 ## Play
 
-### Web
-
-https://netris.rocketnine.space/play/
-
 ### Terminal
 
 ```bash
@@ -32,7 +28,7 @@ Windows and Linux binaries are available.
 ### Compile
 
 ```bash
-go get code.rocketnine.space/tslocum/netris/cmd/netris
+go get github.com/Alpha5k/netris/cmd/netris
 ```
 
 ## Configure
