@@ -1,4 +1,4 @@
-module github.com/Alpha5k/netris
+module code.rocketnine.space/tslocum/netris
 
 go 1.13
 
@@ -13,3 +13,5 @@ require (
 	github.com/mattn/go-isatty v0.0.12
 	golang.org/x/crypto v0.0.0-20201016220609-9e8e0b390897
 )
+
+replace gitlab.com/tslocum/netris => github.com/Alpha5k/netris
